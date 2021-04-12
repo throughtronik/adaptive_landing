@@ -1,0 +1,11 @@
+body {
+  font-family: 'Montserrat', sans-serif;
+}
+
+.pros {
+  background-image: linear-gradient(240deg, #fdfbfb 0%, #ebedee 100%);
+}
+
+.comments {
+  background-image: linear-gradient(240deg, #fdfbfb 0%, #ebedee 100%);
+}
